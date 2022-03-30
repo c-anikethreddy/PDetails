@@ -5,7 +5,7 @@ import java.text.ParseException;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Configuration;
+//import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Service;
@@ -14,7 +14,7 @@ import com.cognizant.pensionerdetail.exception.InvalidAadhaarException;
 import com.cognizant.pensionerdetail.model.PensionerDetail;
 import com.cognizant.pensionerdetail.repository.PensionerRepository;
 
-import lombok.NoArgsConstructor;
+//import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 /**
